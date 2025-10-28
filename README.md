@@ -11,14 +11,14 @@ Absolutely! A **GitHub project description** should clearly explain what the pro
 > An end-to-end data analysis and machine learning project to explore customer behavior, predict churn, and visualize insights using Python, Pandas, NumPy, scikit-learn, and Power BI.
 
 
-## **3. Motivation / Purpose**
+## **2. Motivation / Purpose**
 
 Explain **Why I did this project**.
 
 > Reducing customer churn is a key challenge for subscription-based businesses. This project demonstrates how data analysis and machine learning can help identify high-risk customers and provide actionable insights to improve retention.
 
 
-## **4. Key Features / Highlights**
+## **3. Key Features / Highlights**
 
 What makes this project interesting:
 
@@ -29,7 +29,7 @@ What makes this project interesting:
 * Business insights and recommendations for reducing churn
 
 
-## **5. Skills & Tools**
+## **4. Skills & Tools**
 
 * **Programming Languages:** Python
 * **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib/Seaborn
@@ -37,7 +37,7 @@ What makes this project interesting:
 * **Other Skills:** Data cleaning, EDA, feature engineering, predictive modeling, DAX
 
 
-## **6. Project Structure**
+## **5. Project Structure**
 
 ```
 Customer-Churn-Analysis/
@@ -51,11 +51,11 @@ Customer-Churn-Analysis/
 
 ---
 
-## **7. Dataset**
+## **6. Dataset**
 
 * [Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
 
-## **8. How to Run**
+## **7. How to Run**
 
 1. Clone the repo
 2. Install required packages: `pip install -r requirements.txt`
@@ -63,7 +63,7 @@ Customer-Churn-Analysis/
 4. Open the Power BI dashboard file for visualization
 
 
-## **9. Results / Insights**
+## **8. Results / Insights**
 
 * Churn rate = 27%
 * Customers on month-to-month contracts are most likely to churn
@@ -71,7 +71,7 @@ Customer-Churn-Analysis/
 * Random Forest achieved the best prediction accuracy (~82%)
 
 
-## **10. Future Improvements**
+## **9. Future Improvements**
 
 * Deploy model as a web app (Streamlit / Flask)
 * Automate Power BI dashboards with real-time data
